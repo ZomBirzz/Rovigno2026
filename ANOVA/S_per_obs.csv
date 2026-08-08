@@ -1,0 +1,451 @@
+ANNO,Sperimentatore,SITE,REPLICA,S
+2022,Vincenzo ,A,1,7
+2022,Vincenzo ,A,2,7
+2022,Vincenzo ,A,3,8
+2022,Vincenzo ,A,4,6
+2022,Enrico,A,5,7
+2022,Enrico,A,6,7
+2022,Enrico,A,7,5
+2022,Simone,A,8,9
+2022,Simone,A,9,4
+2022,Sabrina,A,10,5
+2022,Sabrina ,A,11,6
+2022,Paolo,A,12,8
+2022,Paolo ,A,13,7
+2022,Paolo,A,14,7
+2022,Beatrice,A,15,6
+2022,Beatrice,A,16,8
+2022,Beatrice,A,17,10
+2022,Luigia,A,18,7
+2022,Luigia,A,19,8
+2022,Luigia,A,20,10
+2022,Matilde,A,21,5
+2022,Matilde ,A,22,7
+2022,Samantha,A,23,9
+2022,Samantha,A,24,4
+2022,Lisa,A,25,6
+2022,Lisa,A,26,9
+2022,Aurora ,A,27,8
+2022,Aurora ,A,28,8
+2022,Eugenia,A,29,7
+2022,Eugenia,A,30,8
+2022,Althea,B,1,5
+2022,Althea,B,2,4
+2022,Althea,B,3,8
+2022,Greta,B,4,7
+2022,Greta,B,5,6
+2022,Greta,B,6,4
+2022,Marika,B,7,6
+2022,Marika,B,8,5
+2022,Marika,B,9,6
+2022,Mattia,B,10,6
+2022,Mattia,B,11,5
+2022,Mattia,B,12,5
+2022,Giuseppe,B,13,6
+2022,Rebecca,B,14,6
+2022,Rebecca ,B,15,7
+2022,Rebecca,B,16,5
+2022,Julia,B,17,4
+2022,Julia,B,18,4
+2022,Alberto,B,19,3
+2022,Alberto,B,20,6
+2022,Alberto,B,21,6
+2022,Mattia B,B,22,6
+2022,Mattia B,B,23,3
+2022,Mattia B,B,24,4
+2022,Folco,B,25,5
+2022,Folco,B,26,6
+2022,Folco,B,27,6
+2022,Luigi,B,28,6
+2022,Luigi,B,29,8
+2022,Luigi,B,30,7
+2022,Alessia Gentiluomo,C,1,8
+2022,Alessia Gentiluomo,C,2,7
+2022,Riccardo Brusa,C,3,4
+2022,Riccardo Brusa,C,4,3
+2022,Riccardo Brusa,C,5,6
+2022,Rebecca Tollardo,C,6,7
+2022,Rebecca Tollardo,C,7,5
+2022,Aurora Tomasini,C,8,8
+2022,Aurora Tomasini,C,9,8
+2022,Gloria Metti,C,10,7
+2022,Gloria Metti,C,11,4
+2022,Annalisa,C,12,7
+2022,Lorenzo savese,C,13,4
+2022,Letizia Ripa,C,14,7
+2022,Letizia Ripa,C,15,10
+2022,Roca Benedetta,C,16,7
+2022,Annalisa,C,17,8
+2022,Fabiola Cecchini,C,18,4
+2022,Fabiola Cecchini,C,19,3
+2022,Lorenzo Savese,C,20,6
+2022,Roca Benedetta,C,21,7
+2022,Chiara scandellari,C,22,7
+2022,Chiara scandellari,C,23,9
+2022,Lorenzo Savese,C,24,5
+2022,Lorenzo M.,C,25,10
+2022,Lorenzo M. ,C,26,8
+2022,Lorenzo M,C,27,11
+2022,Lorenzo M,C,28,6
+2022,Riccardo Brusa,C,29,10
+2022,Tollardo/Cecchini prova,C,30,3
+2023,Elena Manfredini,A,1,8
+2023,Elena Manfredini,A,2,6
+2023,Elena Manfredini,A,3,8
+2023,Serena Ghirlandi,A,4,8
+2023,Serena Ghirlandi,A,5,5
+2023,Michael Casadei,A,6,5
+2023,Michael Casadei,A,7,3
+2023,Michael Casadei,A,8,3
+2023,Tommaso Pasolini,A,9,4
+2023,Tommaso Pasolini,A,10,5
+2023,Giorgia Marzolla,A,11,5
+2023,Giorgia Marzolla,A,12,6
+2023,Viviana Russo,A,13,3
+2023,Viviana Russo,A,14,6
+2023,Margherita Magnani,A,17,3
+2023,Margherita Magnani,A,18,5
+2023,Francesca Rimini,A,20,7
+2023,Alex Baggio Morano,A,22,7
+2023,Alex Baggio Morano,A,23,5
+2023,Alex Baggio Morano,A,24,5
+2023,Simone De Caprio,A,25,8
+2023,Laura Bronzetti ,A,27,5
+2023,Laura Bronzetti ,A,28,3
+2023,Camilla Campacci,A,29,4
+2023,Camilla Campacci,A,30,5
+2023,Chiara Frigieri,A,31,3
+2023,Chiara Frigieri,A,32,4
+2023,Chiara Frigieri,A,33,5
+2023,Chiara Frigieri,A,34,6
+2023,Giada Bernardini,A,35,4
+2023,Ilaria Palmeggiani,B,1,6
+2023,Ilaria Palmeggiani,B,2,5
+2023,Simona Salandra,B,3,8
+2023,Simona Salandra,B,4,5
+2023,Valentina Leone,B,5,5
+2023,Valentina Leone,B,6,5
+2023,Valentina Leone,B,7,5
+2023,Lorenzo Beltramini,B,8,5
+2023,Lorenzo Beltramini,B,9,5
+2023,Lorenzo Beltramini,B,10,6
+2023,Alessandra Leanza,B,11,8
+2023,Sara Belas,B,13,8
+2023,Sara Belas,B,15,5
+2023,Gabriella Bifulco,B,16,5
+2023,Gabriella Bifulco,B,18,7
+2023,Barbara Vicinanza,B,19,5
+2023,Barbara Vicinanza,B,20,4
+2023,Simone Savi,B,22,3
+2023,Simone Savi,B,23,4
+2023,Dario Lombardi,B,25,8
+2023,Dario Lombardi,B,26,8
+2023,Stefano Orlandini,B,27,5
+2023,Stefano Orlandini,B,28,6
+2023,Stefano Orlandini,B,29,9
+2023,Alice Fedele,B,30,5
+2023,Alice Fedele,B,31,9
+2023,Vittoria Zuccarini,B,33,9
+2023,Vittoria Zuccarini,B,34,9
+2023,Teresa Bonacci,B,35,5
+2023,Teresa Bonacci,B,36,5
+2023,Bianca Marzano,C,2,6
+2023,Bianca Marzano,C,3,7
+2023,Matilde Leonelli,C,4,4
+2023,Matilde Leonelli,C,5,6
+2023,Sofia Ghione,C,7,5
+2023,Sofia Ghione,C,8,7
+2023,Matilde Fracassi,C,9,5
+2023,Matilde Fracassi,C,10,8
+2023,Camilla Croci,C,11,6
+2023,Camilla Croci,C,12,5
+2023,Camilla Croci,C,13,4
+2023,Jessica De Sabbata,C,14,4
+2023,Jessica De Sabbata,C,15,7
+2023,Maria Aurora Iorfino,C,16,9
+2023,Maria Aurora Iorfino,C,17,6
+2023,Maria Aurora Iorfino,C,18,6
+2023,Lorenza Ciarcia,C,19,5
+2023,Lorenza Ciarcia,C,20,4
+2023,Paola Cicalese,C,21,5
+2023,Paola Cicalese,C,22,10
+2023,Giulia Guglielmelli,C,23,6
+2023,Giulia Guglielmelli,C,25,5
+2023,Arianna Fabbri,C,26,8
+2023,Chiara Tonelli,C,29,5
+2023,Elettra Panarari,C,31,3
+2023,Elettra Panarari,C,32,7
+2023,Elettra Panarari,C,33,6
+2023,Alessandro Nicolai,C,34,5
+2023,Alessandro Nicolai,C,35,6
+2023,Alessandro Nicolai,C,36,6
+2024,Zatini Piter,A,1,4
+2024,Affinito Giovanni,A,2,4
+2024,Affinito Giovanni,A,3,3
+2024,Davide c,A,4,4
+2024,Davide c,A,5,4
+2024,Davide c,A,6,4
+2024,Mirko,A,7,4
+2024,Mirko,A,8,4
+2024,Mirko,A,9,3
+2024,Matteo,A,10,7
+2024,Matteo,A,11,6
+2024,Elisa G,A,12,5
+2024,Elisa G,A,13,7
+2024,Gaia B,A,14,5
+2024,Giulia Carnazzini,A,15,4
+2024,Giulia Carnazzini,A,17,6
+2024,Gabriele Bassi,A,18,5
+2024,Daniele Carrozza,A,20,5
+2024,Giacomo Bonazza,A,22,3
+2024,Giacomo Bonazza,A,23,5
+2024,Francesca Bett,A,24,5
+2024,Francesca Bett,A,25,7
+2024,Francesca Bett,A,26,7
+2024,Anna Chiarini,A,27,8
+2024,Anna Chiarini,A,28,6
+2024,Francesca Albertini,A,29,7
+2024,Francesca Albertini,A,30,5
+2024,Francesca Albertini,A,31,6
+2024,Davide Benaglia,A,32,6
+2024,Davide Benaglia,A,33,7
+2024,Marco Pasquini,B,1,6
+2024,Marco Pasquini,B,2,6
+2024,Marco Pasquini,B,3,7
+2024,Francesco Rimedio,B,4,4
+2024,Francesco Rimedio,B,5,3
+2024,Jacopo Sangiovanni,B,6,8
+2024,Jacopo Sangiovanni,B,8,9
+2024,Enrico Pongiluppi,B,9,7
+2024,Enrico Pongiluppi,B,10,6
+2024,Federica Mascarana,B,11,4
+2024,Federica Mascarana,B,12,5
+2024,Gaia De Francesco,B,13,5
+2024,Gaia De Francesco,B,14,4
+2024,Gaia De Francesco,B,15,5
+2024,Beatrice Vitozzi,B,16,6
+2024,Beatrice Vitozzi,B,18,4
+2024,Andrea Occhipinti,B,19,5
+2024,Andrea Occhipinti,B,20,6
+2024,Christian Pregnolato,B,21,6
+2024,Christian Pregnolato,B,22,8
+2024,Christian Pregnolato,B,23,5
+2024,Simone Lops,B,24,4
+2024,Simone Lops,B,25,6
+2024,Valentina Perini,B,26,5
+2024,Valentina Perini,B,27,4
+2024,Francesca Serafino,B,28,4
+2024,Franscesca Serafino,B,29,5
+2024,Carmine Grasso,B,30,5
+2024,Carmine Grasso,B,31,6
+2024,Jacopo Tagliapietra,B,33,7
+2024,Sion Asja Raimondi,C,1,7
+2024,Sion Asja Raimondi,C,3,7
+2024,Clelia Fumagalli,C,4,8
+2024,Clelia Fumagalli,C,5,7
+2024,Anna Medici,C,6,8
+2024,Anna Medici,C,7,7
+2024,Camilla Giovannelli ,C,8,2
+2024,Rebecca Vitali ,C,10,5
+2024,Rebecca Vitali,C,11,6
+2024,Angelica Faraci,C,12,7
+2024,Angelica Faraci,C,13,4
+2024,Agnese Maserati,C,14,3
+2024,Agnese Maserati,C,15,7
+2024,Virginia Faccio,C,16,3
+2024,Virginia Faccio,C,17,4
+2024,Virginia Faccio,C,18,7
+2024,fava ludovica,C,19,7
+2024,fava ludovica,C,20,8
+2024,Sofia Scozzoli,C,21,8
+2024,Sofia Scozzoli,C,22,6
+2024,Sofia Scozzoli ,C,23,7
+2024,Nicole Domenichini,C,24,6
+2024,Nicole Domenichini,C,25,8
+2024,Adriana Cuccovillo,C,26,6
+2024,Adriana Cuccovillo,C,27,5
+2024,Nicola Pesce,C,28,8
+2024,Giorgia pascolo,C,30,5
+2024,Giorgia pascolo,C,31,7
+2024,Micaela Torresi,C,32,5
+2024,Micaela Torresi,C,33,7
+2025,Morosi E.,A,1,8
+2025,Barp R. ,A,2,9
+2025,Ciubotaru M.,A,5,7
+2025,Guerrini M. ,A,6,6
+2025,Nodari S.,A,8,5
+2025,Albertazzi Z.,A,9,6
+2025,Albertazzi Z.,A,11,6
+2025,Inzerillo S.,A,12,5
+2025,Inzerillo S.,A,13,6
+2025,Pullano A.,A,14,5
+2025,Pullano A.,A,15,7
+2025,Pullano A.,A,16,7
+2025,Marin G.,A,17,5
+2025,Marin G.,A,18,5
+2025,Zuccheri,A,19,4
+2025,Zuccheri,A,20,5
+2025,Zuccheri,A,21,5
+2025,La Spada,A,22,9
+2025,La Spada,A,23,7
+2025,La Spada,A,24,7
+2025,Fasani M.,A,25,4
+2025,Fasani M.,A,26,7
+2025,Vacchelli,A,27,8
+2025,Vacchelli,A,28,6
+2025,Vacchelli,A,29,6
+2025,Chiementin M.,A,30,7
+2025,Chiementin M.,A,31,8
+2025,Chiementin M.,A,32,6
+2025,Costanzo I.,A,33,7
+2025,Costanzo I.,A,34,8
+2025,Rondoni G.,B,1,5
+2025,Rondoni G.,B,2,6
+2025,Patrizi Flavio ,B,3,6
+2025,Patrizi Flavio ,B,4,7
+2025,Vitali G.,B,6,10
+2025,Maggioli M.,B,7,5
+2025,Maggioli M.,B,8,7
+2025,Murari A.,B,9,7
+2025,Murari A.,B,10,6
+2025,Buttino B.,B,12,6
+2025,Zipri C.,B,14,5
+2025,Zipri C.,B,15,6
+2025,Rossi A,B,16,9
+2025,Rossi A,B,17,8
+2025,Rossi A,B,18,8
+2025,de Cancellis M.,B,19,5
+2025,de Cancellis M.,B,20,7
+2025,de Cancellis M.,B,21,7
+2025,Stazzone S.,B,22,5
+2025,Stazzone S.,B,23,10
+2025,Valli D.,B,24,6
+2025,Valli D.,B,25,7
+2025,Tarantelli F.,B,27,4
+2025,Tarantelli F.,B,28,7
+2025,Tarantelli F.,B,29,6
+2025,Di Mambro I.,B,31,6
+2025,Di Mambro I.,B,32,7
+2025,Gerlini G.,B,33,5
+2025,Gerlini G.,B,34,6
+2025,Gerlini G.,B,35,5
+2025,Grasselli C.,C,1,8
+2025,Grasselli C.,C,2,7
+2025,Grasselli C.,C,3,6
+2025,Lorenzoni M.,C,4,8
+2025,Lorenzoni M.,C,5,9
+2025,Lorenzoni M.,C,6,5
+2025,Lorez A.,C,7,8
+2025,Lorez A.,C,8,7
+2025,Lorez A.,C,9,5
+2025,Tutolo M.,C,10,6
+2025,Tutolo M.,C,11,6
+2025,Tutolo M.,C,12,5
+2025,Messina N.,C,13,9
+2025,Messina N.,C,14,7
+2025,Isola G.,C,17,6
+2025,Fagiani C.,C,18,3
+2025,Bottoni V.,C,19,5
+2025,Bottoni V.,C,20,7
+2025,Bottoni V.,C,21,7
+2025,Gradella I.,C,22,5
+2025,Gradella I.,C,23,5
+2025,Gradella I ,C,24,4
+2025,Pirovano G.,C,25,4
+2025,Pirovano G.,C,27,6
+2025,Peppi V.,C,28,6
+2025,Sagarra M.,C,30,7
+2025,Sagarra M.,C,31,5
+2025,Sagarra M.,C,32,4
+2025,Cibrian I.,C,33,5
+2025,Cibrian I.,C,34,6
+2026,Chiara Belliato,A,2,9
+2026,Chiara Belliato,A,3,2
+2026,Sara Barontini,A,4,2
+2026,Sara Barontini,A,5,3
+2026,Francesco Ciccarello,A,7,7
+2026,Francesco Ciccarello,A,8,6
+2026,Francesco Ciccarello,A,9,8
+2026,Riccardo Bersani,A,10,5
+2026,Riccardo Bersani,A,11,5
+2026,Riccardo Bersani,A,12,7
+2026,Mattia Ceccarelli,A,13,7
+2026,Mattia Ceccarelli,A,14,8
+2026,Mattia Ceccarelli,A,15,8
+2026,Matteo Cerquetti,A,17,4
+2026,Denise Bortolozzo,A,19,6
+2026,Denise Bortolozzo,A,20,6
+2026,Chiara Calò,A,22,8
+2026,Chiara Calò,A,24,8
+2026,Martina Bilotta,A,27,4
+2026,Juan Diego Capriati,A,28,7
+2026,Juan Diego Capriati,A,29,7
+2026,Juan Diego Capriati,A,30,4
+2026,Leonardo Vettore Bertolla,A,31,5
+2026,Leonardo Vettore Bertolla,A,32,5
+2026,Leonardo Vettore Bertolla,A,33,7
+2026,Federica Chippari,A,34,5
+2026,Federica Chippari,A,36,5
+2026,Angelica Bury,A,37,4
+2026,Angelica Bury,A,38,5
+2026,Angelica Bury,A,39,7
+2026,Sara Pedrini,B,1,5
+2026,Sara Pedrini,B,2,5
+2026,Sara Pedrini,B,3,10
+2026,Giulia Urciullo,B,5,4
+2026,Giulia Urciullo,B,6,7
+2026,Adrian Villani,B,7,7
+2026,Adrian Villani,B,8,5
+2026,Adrian Villani,B,9,7
+2026,Cecilia Setti,B,10,8
+2026,Cecilia Setti,B,11,6
+2026,Cecilia Setti,B,12,6
+2026,Giulia Ulkumen,B,13,11
+2026,Giulia Ulkumen,B,14,8
+2026,Giulia Ulkumen,B,15,10
+2026,Alessio Tantone,B,16,7
+2026,Alessio Tantone,B,18,5
+2026,Tancredi Santoro,B,21,2
+2026,Sara Tonzar ,B,23,7
+2026,Sara Tonzar ,B,24,6
+2026,Noemi Pecorale,B,26,7
+2026,Sara Stoppa,B,29,5
+2026,Sara Stoppa,B,30,6
+2026,Lamberto Tastardi,B,31,3
+2026,Lamberto Tastardi,B,33,5
+2026,Oliva Giulia,B,34,7
+2026,Oliva Giulia,B,35,5
+2026,Oliva Giulia,B,36,4
+2026,Alice Taramelli,B,37,6
+2026,Alice Taramelli,B,38,5
+2026,Alice Taramelli,B,39,5
+2026,Melissa Guidi,C,1,5
+2026,Melissa Guidi,C,2,4
+2026,Melissa Guidi,C,3,5
+2026,Sofia Del Gobbo,C,4,7
+2026,Sofia Del Gobbo,C,5,7
+2026,Sofia Del Gobbo,C,6,9
+2026,Tommaso Dal Santo,C,9,7
+2026,Luna Di Franco,C,10,7
+2026,Luna Di Franco,C,12,5
+2026,Anna Gerardini,C,15,7
+2026,Francesca Cifelli,C,16,8
+2026,Francesca Cifelli,C,17,5
+2026,Francesca Cifelli,C,18,6
+2026,Federica Mastroberti,C,19,5
+2026,Federica Mastroberti,C,20,4
+2026,Federica Mastroberti,C,21,5
+2026,Stefania Giovannini,C,22,5
+2026,Stefania Giovannini,C,24,6
+2026,Arianna Di Biasio,C,25,5
+2026,Arianna Di Biasio,C,26,3
+2026,Arianna Di Biasio,C,27,6
+2026,Giovanni Ciccarello,C,28,6
+2026,Giovanni Ciccarello,C,29,7
+2026,Giovanni Ciccarello,C,30,5
+2026,Giorgia Invitto,C,32,5
+2026,Giorgia Invitto,C,33,4
+2026,Sara Giolo,C,34,6
+2026,Sara Giolo,C,35,4
+2026,Sabrina De Rito,C,37,6
+2026,Sabrina De Rito,C,38,6
