@@ -4,7 +4,7 @@ dataset <- read.csv(file.choose(),header=T,sep=",", stringsAsFactors = T)
 attach(dataset)
 summary(dataset)
 
-pielou = H1 / log(S)
+pielou = H1 / log(Sricoprimento) #log naturale
 cat(pielou, file = "pielou.csv", sep = ",\n")
 
 detach(dataset)
