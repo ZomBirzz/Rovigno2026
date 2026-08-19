@@ -13,7 +13,7 @@ for (i in 1:450) {
   n = pop+1
   N = sum(n)
   p = n/N
-  H = -sum(p*log10(p)) #base 10
+  H = -sum(p*log(p)) #base e
   print(H)
   cat(H, file = "H.csv", sep = ",\n", append = TRUE)
 
