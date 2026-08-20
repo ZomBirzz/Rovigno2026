@@ -1,9 +1,8 @@
 rm(list=ls(all=TRUE))
+library(ggplot2)
 dataset <- read.csv(file.choose(),header=T,sep=",", stringsAsFactors = T)
 attach(dataset)
 summary(dataset)
-install.packages("ggplot2")
-library(ggplot2)
 
 
 
