@@ -1,0 +1,124 @@
+linear.model=lm(Sricoprimento~Anno+Sito+Anno*Sito)
+C.test(linear.model) 
+gad(linear.model)
+
+snk.test(linear.model, term = "Anno:Sito", among = "Sito", within = "Anno", anova.tab = gad(linear.model))
+snk.test(linear.model, term = "Anno:Sito", among = "Anno", within = "Sito", anova.tab = gad(linear.model))
+# 
+# 	Cochran test of homogeneity of variances
+# 
+# data:  linear.model
+# C = 0.13692, n = 30, k = 15, p-value = 0.005614
+# alternative hypothesis: Group 2022.C has outlying variance
+# sample estimates:
+# 2022.A 2022.B 2022.C 2023.A 2023.B 2023.C 2024.A 2024.B 2024.C 2025.A 2025.B 2025.C 2026.A 2026.B 2026.C 
+# 2.7540 1.0402 3.9586 2.0333 2.1851 1.6195 1.8575 1.4759 2.0414 1.3517 1.5126 1.1276 2.5069 2.3862 1.0621 
+# 
+# $anova
+# Analysis of Variance Table
+# 
+# Response: Sricoprimento
+#            Df Sum Sq Mean Sq F value    Pr(>F)    
+# Anno        4 102.70 25.6756  2.3942  0.136438    
+# Sito        2  19.70  9.8489  5.1096  0.006406 ** 
+# Anno:Sito   8  85.79 10.7239  5.5636 1.016e-06 ***
+# Residuals 435 838.47  1.9275                      
+# ---
+# Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+# 
+# Student-Newman-Keuls test for: Anno:Sito 
+# 
+# Standard error = 0.2535
+# Df = 435 
+# 
+# Pairwise comparisons among levels of: Sito 
+# within each level of: Anno 
+# 
+# Level: 2022 
+#               B       A      C  
+# Rank order:   1       2      3  
+# Ranked means: 4.8333  5.9333 6.2
+# Comparisons:                    
+# 1             3-1 ***           
+# 2             2-1 **  3-2 ns    
+# Summary: B < A = C 
+# 
+# Level: 2023 
+#               A      C      B     
+# Rank order:   1      2      3     
+# Ranked means: 4.3667 4.3667 5.4333
+# Comparisons:                      
+# 1             3-1 **              
+# 2             2-1 ns 3-2 **       
+# Summary: A = C < B 
+# 
+# Level: 2024 
+#               A       B       C  
+# Rank order:   1       2       3  
+# Ranked means: 3.9333  4.2     5.4
+# Comparisons:                     
+# 1             3-1 ***            
+# 2             2-1 ns  3-2 ***    
+# Summary: A = B < C 
+# 
+# Level: 2025 
+#               A      C     B     
+# Rank order:   1      2     3     
+# Ranked means: 4.4    4.9   5.0667
+# Comparisons:                     
+# 1             3-1 ns             
+# 2             2-1 x  3-2 x       
+# Summary: A = C = B 
+# 
+# Level: 2026 
+#               A      C     B  
+# Rank order:   1      2     3  
+# Ranked means: 3.9    4.2   4.6
+# Comparisons:                  
+# 1             3-1 ns          
+# 2             2-1 x  3-2 x    
+# Summary: A = C = B 
+# ---
+# Signif. codes: ***p < 0.001; **p < 0.01; *p < 0.05; ns, p > 0.05
+# Student-Newman-Keuls test for: Anno:Sito 
+# 
+# Standard error = 0.2535
+# Df = 435 
+# 
+# Pairwise comparisons among levels of: Anno 
+# within each level of: Sito 
+# 
+# Level: A 
+#               2026    2024    2023    2025    2022  
+# Rank order:   1       2       3       4       5     
+# Ranked means: 3.9     3.9333  4.3667  4.4     5.9333
+# Comparisons:                                        
+# 1             5-1 ***                               
+# 2             4-1 ns  5-2 ***                       
+# 3             3-1 x   4-2 x   5-3 ***               
+# 4             2-1 x   3-2 x   4-3 x   5-4 ***       
+# Summary: 2026 = 2024 = 2023 = 2025 < 2022 
+# 
+# Level: B 
+#               2024   2026   2022   2025   2023  
+# Rank order:   1      2      3      4      5     
+# Ranked means: 4.2    4.6    4.8333 5.0667 5.4333
+# Comparisons:                                    
+# 1             5-1 **                            
+# 2             4-1 ns 5-2 ns                     
+# 3             3-1 x  4-2 x  5-3 x               
+# 4             2-1 x  3-2 x  4-3 x  5-4 x        
+# Summary: 2024 = 2026 = 2022 = 2025 = 2023 
+# 
+# Level: C 
+#               2026    2023    2025    2024  2022
+# Rank order:   1       2       3       4     5   
+# Ranked means: 4.2     4.3667  4.9     5.4   6.2 
+# Comparisons:                                    
+# 1             5-1 ***                           
+# 2             4-1 **  5-2 ***                   
+# 3             3-1 ns  4-2 *   5-3 ***           
+# 4             2-1 x   3-2 x   4-3 ns  5-4 *     
+# Summary: 2026 = 2023 = 2025 = 2024 < 2022 
+# ---
+# Signif. codes: ***p < 0.001; **p < 0.01; *p < 0.05; ns, p > 0.05
